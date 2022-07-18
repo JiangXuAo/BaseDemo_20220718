@@ -1,0 +1,9 @@
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\bin\Debug\HKING.Json.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\bin\Debug\HKING.Json.pdb
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\bin\Debug\Newtonsoft.Json.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\bin\Debug\Newtonsoft.Json.xml
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\obj\Debug\HKING.Json.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\obj\Debug\HKING.Json.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\obj\Debug\HKING.Json.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\obj\Debug\HKING.Json.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Json\obj\Debug\HKING.Json.pdb

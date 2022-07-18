@@ -1,0 +1,9 @@
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\bin\x64\Debug\BaseDAL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\bin\x64\Debug\BaseDAL.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\bin\x64\Debug\Models.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\bin\x64\Debug\Models.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\obj\x64\Debug\BaseDAL.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\obj\x64\Debug\BaseDAL.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\obj\x64\Debug\BaseDAL.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\obj\x64\Debug\BaseDAL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDAL\obj\x64\Debug\BaseDAL.pdb

@@ -1,0 +1,6 @@
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\bin\Debug\HKING.EF.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\bin\Debug\HKING.EF.pdb
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\obj\Debug\HKING.EF.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\obj\Debug\HKING.EF.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\obj\Debug\HKING.EF.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.EF\obj\Debug\HKING.EF.pdb

@@ -1,0 +1,9 @@
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\bin\x64\Debug\Models.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\bin\x64\Debug\Models.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\bin\x64\Debug\Newtonsoft.Json.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\bin\x64\Debug\Newtonsoft.Json.xml
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\obj\x64\Debug\Models.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\obj\x64\Debug\Models.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\obj\x64\Debug\Models.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\obj\x64\Debug\Models.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Models\obj\x64\Debug\Models.pdb

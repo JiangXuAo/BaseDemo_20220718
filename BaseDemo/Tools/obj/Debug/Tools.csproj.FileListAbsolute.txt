@@ -1,0 +1,9 @@
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\bin\Debug\Tools.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\bin\Debug\Tools.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\bin\Debug\System.Data.SQLite.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\bin\Debug\System.Data.SQLite.xml
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\obj\Debug\Tools.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\obj\Debug\Tools.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\Tools\obj\Debug\Tools.pdb

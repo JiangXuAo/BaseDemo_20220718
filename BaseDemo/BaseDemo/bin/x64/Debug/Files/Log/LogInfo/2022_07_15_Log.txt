@@ -1,0 +1,45 @@
+时间:2022-07-15 14:58:31,798 
+线程ID[1]                            
+日志级别:INFO  
+记录类:loginfo 
+扩展信息:{log4net:UserName=DESKTOP-LPNRD75\31991, log4net:Identity=, log4net:HostName=DESKTOP-LPNRD75}                            -
+异常: 
+错误描述:
+Test
+
+时间:2022-07-15 14:58:32,231 
+线程ID[1]                            
+日志级别:INFO  
+记录类:loginfo 
+扩展信息:{log4net:UserName=DESKTOP-LPNRD75\31991, log4net:Identity=, log4net:HostName=DESKTOP-LPNRD75}                            -
+异常: 
+错误描述:
+Test
+
+时间:2022-07-15 14:58:32,350 
+线程ID[1]                            
+日志级别:INFO  
+记录类:loginfo 
+扩展信息:{log4net:UserName=DESKTOP-LPNRD75\31991, log4net:Identity=, log4net:HostName=DESKTOP-LPNRD75}                            -
+异常: 
+错误描述:
+Test
+
+时间:2022-07-15 14:58:32,478 
+线程ID[1]                            
+日志级别:INFO  
+记录类:loginfo 
+扩展信息:{log4net:UserName=DESKTOP-LPNRD75\31991, log4net:Identity=, log4net:HostName=DESKTOP-LPNRD75}                            -
+异常: 
+错误描述:
+Test
+
+时间:2022-07-15 14:58:32,640 
+线程ID[1]                            
+日志级别:INFO  
+记录类:loginfo 
+扩展信息:{log4net:UserName=DESKTOP-LPNRD75\31991, log4net:Identity=, log4net:HostName=DESKTOP-LPNRD75}                            -
+异常: 
+错误描述:
+Test
+

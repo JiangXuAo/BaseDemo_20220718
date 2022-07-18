@@ -1,0 +1,10 @@
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\bin\Debug\Log4Net.config
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\bin\Debug\HKING.Log4Net.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\bin\Debug\HKING.Log4Net.pdb
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\bin\Debug\log4net.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\bin\Debug\log4net.xml
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\obj\Debug\HKING.Log4Net.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\obj\Debug\HKING.Log4Net.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\obj\Debug\HKING.Log4Net.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\obj\Debug\HKING.Log4Net.dll
+D:\CSharpDemo\练习\00_BaseDemo\HKING.Log4Net\obj\Debug\HKING.Log4Net.pdb

@@ -1,0 +1,15 @@
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\BaseDemo.exe.config
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\BaseDemo.exe
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\BaseDemo.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.Properties.Resources.resources
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.csproj.GenerateResource.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.exe
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\BaseBLL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\Models.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\BaseBLL.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\bin\Debug\Models.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseDemo\obj\Debug\BaseDemo.FrmBase.resources

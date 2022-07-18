@@ -1,0 +1,11 @@
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\BaseBLL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\BaseBLL.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\BaseDAL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\Models.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\BaseDAL.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\bin\Debug\Models.pdb
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\obj\Debug\BaseBLL.csproj.AssemblyReference.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\obj\Debug\BaseBLL.csproj.CoreCompileInputs.cache
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\obj\Debug\BaseBLL.csproj.CopyComplete
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\obj\Debug\BaseBLL.dll
+D:\CSharpDemo\练习\00_BaseDemo\BaseDemo\BaseBLL\obj\Debug\BaseBLL.pdb
